@@ -1,6 +1,10 @@
+##Background
+
 For this project I created charts to offer data-backed guidance on new opportunities for market differentiation.
 
 I used a rideshare app's complete recordset of rides. It contains information about every active driver and historic ride including details like city, driver count, individual fares, and city type.
+
+## Step by Step
 
 The Bubble Plot showcases the relationship between four key variables:
 
