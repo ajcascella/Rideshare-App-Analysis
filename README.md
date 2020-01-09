@@ -1,4 +1,4 @@
-##Background
+## Background
 
 For this project I created charts to offer data-backed guidance on new opportunities for market differentiation.
 
